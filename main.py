@@ -73,8 +73,7 @@ CHECADOS: {VALORLISTA}
 LISTADOS: {VALORLISTADOS}
 SEM RESPOSTA: {VALORSEMRES}
 
-Clique no link a seguir para ver os detalhes: https://mxtoolbox.com/SuperTool.aspx?action=blacklist:cloudmail.fibrafaciltelecom.com.br&run=toolpage
-
+Clique no link a seguir para ver os detalhes: <a href="https://mxtoolbox.com/SuperTool.aspx?action=blacklist:cloudmail.fibrafaciltelecom.com.br&run=toolpage">VER DETALHES</a>
 
 '''
 
